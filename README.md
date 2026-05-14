@@ -1,12 +1,22 @@
 # Sistema de Reserva de Salas
 
+## Integrantes do Projeto
+
+- Gabriel Martins Mateus
+- Gustavo Martins Mateus
+- Rodrigo Martins Mateus
+- João Pedro de Jesus Neris Silva
+- Erick Nogueira Mota
+
+## Descrição
+
 Projeto desenvolvido em **Java** com interface gráfica utilizando **JFrame/Swing**, com o objetivo de gerenciar reservas de salas de forma simples, organizada e funcional.
 
 ## Para executar
 
 1. Importar o projeto no Eclipse.
-2. Adicionar o arquivo jcalendar-1.4.jar ao Build Path.
-3. Executar a classe Main.java.
+2. Adicionar o arquivo `jcalendar-1.4.jar` ao Build Path.
+3. Executar a classe `Main.java`.
 
 ## Objetivo
 
